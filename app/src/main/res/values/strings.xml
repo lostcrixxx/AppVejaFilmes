@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Veja Filmes</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_details">Detalhes</string>
+    <string name="trailer">Trailer</string>
+    <string name="pref_most_popular">Populares</string>
+    <string name="pref_highest_rated">Avaliados</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
 </resources>
